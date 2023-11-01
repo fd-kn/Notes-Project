@@ -1,6 +1,6 @@
-This project is a todo list where you can add a variety of tasks and check them off whenever they are complete.
+_**This project is a todo list where you can add a variety of tasks and check them off whenever they are complete.
 I mainly focused on the front end and logic of adding and ticking off items, so I did not add a database to store the data, nor did I add any autentication.
-This is more of random project I did to get more experience using React.
+This is more of random project I did to get more experience using React.**_
 
 
 # Check Out How The App Works
